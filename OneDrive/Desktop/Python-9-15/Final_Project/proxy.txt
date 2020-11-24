@@ -1,0 +1,10 @@
+18.189.1.43:3128:user:pjegvu
+3.16.149.169:3128:user:pjegvu
+3.139.59.148:3128:user:pjegvu
+3.17.59.111:3128:user:pjegvu
+3.21.125.143:3128:user:pjegvu
+3.137.154.111:3128:user:pjegvu
+13.58.118.0:3128:user:pjegvu
+3.16.163.18:3128:user:pjegvu
+18.223.160.45:3128:user:pjegvu
+3.21.169.14:3128:user:pjegvu
