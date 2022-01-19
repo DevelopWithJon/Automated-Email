@@ -15,11 +15,6 @@ with open('data.csv', newline='') as csvfile:
     
     df = pd.DataFrame(data).drop([0])
     df.columns = ['Mail', 'Password', 'Recovery']
-    
-'''file = open('proxies.txt', 'r')
-proxy = file.read()
-print(proxy)
-'''
 
 
 
